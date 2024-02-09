@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naoussi Jordan</h1>
-<h3 align="center">I love programming and mostly creating amazing web and mobile applications form cameroun</h3>
+<h3 align="center">I love programming and mostly creating amazing web and mobile applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanwilfry&label=Profile%20views&color=0e75b6&style=flat" alt="jordanwilfry" /> </p>
 
