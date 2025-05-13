@@ -86,12 +86,5 @@ I am a passionate **Full-Stack Web and Mobile Developer** and **Cybersecurity En
 
 ---
 
-## 💰 Support Me:
-If you find my work helpful, consider supporting me!  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devjordan)  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jordanwilfry02@gmail.com)  
-
----
-
 [![](https://visitcount.itsvg.in/api?id=jordanwilfry&icon=0&color=0)](https://visitcount.itsvg.in)  
 
